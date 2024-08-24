@@ -6,7 +6,7 @@
 - Clonez le repo :
 
 ```
-git clone <repo_adress>
+git clone 8astien/P10BC
 ```
 
 - Créer un environnement virtuel dans le projet :
