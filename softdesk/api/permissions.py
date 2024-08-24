@@ -1,4 +1,4 @@
-from rest_framework.permissions import BasePermission
+from rest_framework.permissions import BasePermission # type: ignore
 from .models import Issue, Comment
 
 
